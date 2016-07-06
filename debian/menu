@@ -1,0 +1,2 @@
+?package(hello-cpp):needs="text" section="Applications/Education"\
+  title="hello-cpp" command="/usr/bin/hello-cpp"

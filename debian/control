@@ -1,0 +1,14 @@
+Source: hello-cpp
+Section: misc
+Priority: optional
+Maintainer: Andreas Meier <andreas.meier@bbv.ch>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+
+Package: hello-cpp
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: World famous hello program
+ This is a simple reimplementation of the hello program.
+ It is written in C++.
+ It allows non-programmers to use a classic computer science tool.
