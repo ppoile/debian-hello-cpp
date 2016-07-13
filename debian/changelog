@@ -1,3 +1,9 @@
+hello-cpp (0.0.5-1) UNRELEASED; urgency=medium
+
+  * Imported Upstream version 0.0.5
+
+ -- Andreas Meier <andreas.meier@bbv.ch>  Wed, 13 Jul 2016 15:40:54 +0200
+
 hello-cpp (0.0.4-1) unstable; urgency=low
 
   * Initial release
