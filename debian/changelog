@@ -1,3 +1,9 @@
+hello-cpp (0.0.7-2) unstable; urgency=medium
+
+  * debian: fix watch file
+
+ -- Andreas Meier <andreas.meier@bbv.ch>  Thu, 14 Jul 2016 08:23:26 +0200
+
 hello-cpp (0.0.7-1) unstable; urgency=medium
 
   * Imported Upstream version 0.0.7
