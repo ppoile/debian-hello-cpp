@@ -1,3 +1,2 @@
-#
-# TODO: Specify location of upstream repository as soon as it is public.
-#
+version=3
+https://github.com/ppoile/hello-cpp/releases /ppoile/hello-cpp/archive/(.+)\.tar\.gz
